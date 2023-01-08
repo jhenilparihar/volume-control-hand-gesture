@@ -1,0 +1,5 @@
+comtypes==1.1.14
+mediapipe==0.9.0.1
+numpy==1.23.0
+opencv_contrib_python==4.6.0.66
+pycaw==20220416
